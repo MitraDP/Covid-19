@@ -1,7 +1,6 @@
 # Covid-19 Outbreak in Ontario
 
-Based on the data available up to May 26, 2020, 
-Questions to be answered:the following questions are answered.
+Based on the data available up to May 26, 2020, the following questions are answered.
 1.  Temporal distribution of patients hospitalized (in or out of ICU/ventilator)
 2.  EDA of Demographic characteristics of the COVID-19 confirmed/deceased cases (Age group and gender)
 
